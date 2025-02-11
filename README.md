@@ -8,15 +8,7 @@
 - 📚 Estudando com foco em desenvolvimento back-end: PHP, JAVA e TYPESCRIPT 
 - 🙍🏻 Pronomes: ela/dela
 
-  ## Minhas contribuições
-
-<div align="center">
-  <a href="https://github.com/EsterSena">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=EsterSena&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterSena&layout=compact&langs_count=7&theme=nord"/>
-  </a>
-</div>
-
+  
 ## Meus interesses
 
 <div style="display: inline_block"><br>
@@ -30,6 +22,16 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+
+  ## Minhas contribuições
+
+<div align="center">
+  <a href="https://github.com/EsterSena">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=EsterSena&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterSena&layout=compact&langs_count=7&theme=nord"/>
+  </a>
 </div>
 
 
