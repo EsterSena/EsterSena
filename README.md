@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- Atualmente, utilizo mais o bitbucket. Porém, estarei me esforçando para utilizar mais o github e trazer mais variedade para meu perfil.
+- Atualmente utilizo mais o bitbucket para pulls. Porém, estarei me esforçando para utilizar mais o github e trazer mais variedade para meu perfil.
 - Tenho interesse em colaborar com repositórios públicos.
 - 💻 Cursando análise e desenvolvimento de sistemas;
 - 📚 Estudando com foco em desenvolvimento back-end: PHP, JAVA e TYPESCRIPT 
