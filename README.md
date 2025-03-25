@@ -1,13 +1,10 @@
-## Olá! Me chamo Ester Sena e sou desenvolvedora com mais de 3 anos de experiência. Hoje, meus estudos estão voltados para back-end e devOps
-
 ## Sobre mim
+🐝
 
-- Atualmente utilizo mais o bitbucket para pushs. Porém, estarei me esforçando para utilizar mais o github e trazer mais variedade para meu perfil.
-- Tenho interesse em colaborar com repositórios públicos.
-- 💻 Cursando análise e desenvolvimento de sistemas;
-- 📚 Estudando com foco em desenvolvimento back-end: PHP, JAVA e TYPESCRIPT 
-- 🙍🏻 Pronomes: ela/dela
+Olá! Me chamo Ester e sou uma desenvolvedora full stack localizada no Brazil, Fortaleza - Ceará.
 
+Possuo mais de 3 anos de experiência com desenvolvimento full stack em startups e freelancers. 
+Atualmente, sou lider e desenvolvedora da equipe mobile, gerindo a equipe para desenvolvimento focado em aplicações com alta perfomance a alta escalabilidade. 
   
 ## Meus interesses
 
