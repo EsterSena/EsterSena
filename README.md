@@ -1,12 +1,15 @@
-## Sobre mim
-🐝
+## Olá, tudo bem? 🐝
 
-Olá! Me chamo Ester e sou uma desenvolvedora full stack localizada no Brazil, Fortaleza - Ceará.
-
-Possuo mais de 3 anos de experiência com desenvolvimento full stack em startups e freelancers. 
-Atualmente, sou lider e desenvolvedora da equipe mobile, gerindo a equipe para desenvolvimento focado em aplicações com alta perfomance a alta escalabilidade. 
+✨ Olá! Meu nome é Ester, tenho 21 anos e sou desenvolvedora full stack com mais de 4 anos de experiência criando soluções digitais do zero até o produto final.
+🚀 Atualmente, estou focada em desenvolver novos projetos e ideias inovadoras, explorando ao máximo as tecnologias mais recentes para entregar produtos rápidos, eficientes e com uma ótima experiência para o usuário.
+💡 Meu objetivo é transformar ideias em soluções reais que gerem impacto positivo e escalável.
   
 ## Meus interesses
+
+Sobre mim: 
+ - 🎓 Estudante de análise e desenvolvimento de sistemas pela Unifanor Wydem
+ - 💻 Sou tecnóloga em Redes de Computadores
+ - 🤝 Experiência atuando de forma independente, desde a elaboração de propostas e desenvolvimento de projetos, até o trabalho colaborativo em equipe, conduzindo cada etapa do planejamento à entrega final.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +37,6 @@ Atualmente, sou lider e desenvolvedora da equipe mobile, gerindo a equipe para d
 
 ## Onde me encontrar
 <div> 
-  <a href = "mailto:senaester18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/sena-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
