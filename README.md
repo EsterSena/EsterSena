@@ -1,6 +1,6 @@
 ## Olá, tudo bem? 🐝
 
--  ✨ Olá! Meu nome é Ester, tenho 21 anos e sou desenvolvedora full stack com mais de 4 anos de experiência criando soluções digitais do zero até o produto final.
+-  ✨ Olá! Meu nome é Ester, tenho 21 anos e sou desenvolvedora full stack com mais de 4 anos de experiência criando soluções do zero até o produto final.
 -  🚀 Atualmente, estou focada em desenvolver novos projetos e ideias inovadoras, explorando ao máximo as tecnologias mais recentes para entregar produtos rápidos, eficientes e com uma ótima experiência para o usuário.
 -  💡 Meu objetivo é transformar ideias em soluções reais que simplifiquem o dia a dia, resolvam problemas e gerem um impacto positivo com o resultado.
   
